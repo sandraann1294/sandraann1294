@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🔭 I’m currently working on generative AI project and Deep learning projects
+- 🌱 I’m currently learning cloud computing and database querying along with Deep learning from DeepLearning.AI
+- 👯 I’m looking to collaborate on more Machine learning and AI projects which also involves creating data pipelines
+- Linkedin: https://www.linkedin.com/in/sandra-ann-mathew/
 <!--
 **sandraann1294/sandraann1294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
